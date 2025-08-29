@@ -35,14 +35,14 @@ To get started with the todolist Django Web App, you can clone the repository fr
    pip install -r requirements.txt
    ```
 
-7. **Run database migrations**:
+6. **Run database migrations**:
 
     ```bash
     python manage.py makemigrations
     python manage.py migrate
     ```
 
-8. **Create a superuser account (for admin access)**:
+7. **Create a superuser account (for admin access)**:
 
     ```bash
     python manage.py createsuperuser
